@@ -1,82 +1,76 @@
 <div align="center">
-  <h1>Harsh Kumar</h1>
-  <p><b>Computer Science & Engineering Student | Data Science, ML & NLP Enthusiast</b></p>
 
-  <!-- Profile Badges -->
-  <p>
-    <img src="https://img.shields.io/github/followers/harshkumar6581?label=FOLLOWERS&style=flat-square&color=6e5494" alt="Followers">
-    <img src="https://img.shields.io/github/stars/harshkumar6581?label=TOTAL%20STARS&style=flat-square&color=orange" alt="Total Stars">
-    <img src="https://komarev.com/ghpvc/?username=harshkumar6581&label=PROFILE%20VIEWS&style=flat-square&color=blue" alt="Profile Views">
-  </p>
+# 👋 Hi, I'm Harsh Kumar
+
+### 💻 Computer Science Engineering Student
+### 🤖 Data Science | Machine Learning | Deep Learning | NLP
+
+<img src="https://komarev.com/ghpvc/?username=harshkumar6581&label=Profile%20Views&color=blue&style=flat-square"/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/harshkumar6581)
+
 </div>
 
 ---
 
-### 🧬 Who Am I?
+# 🚀 About Me
 
-```python
-class HarshKumar:
-    """
-    B.Tech CSE Student @ Oriental Institute of Science and Technology
-    Bhopal, Madhya Pradesh 🇮🇳
-    """
-    def __init__(self):
-        self.name = "Harsh Kumar"
-        self.username = "harshkumar6581"
-        self.location = "Bhopal, Madhya Pradesh 🇮🇳"
-        self.domain = ["Data Analysis", "Machine Learning", "Deep Learning", "NLP"]
-        self.currently = "Working on Data Analysis libraries, Machine Learning, Deep Learning & NLP"
-        self.learning = ["DSA", "Advanced Data Analytics", "Deep Learning Architectures", "NLP"]
-        self.ask_me_about = ["Python", "C++", "SQL", "Data Analysis", "Machine Learning"]
+- 🎓 B.Tech Computer Science Student
+- 📊 Interested in Data Analytics & Data Science
+- 🤖 Learning Machine Learning & Deep Learning
+- 💬 Ask me about Python, SQL, Pandas & ML
+- 🌱 Currently learning MLOps, NLP & Generative AI
+- 🎯 Goal: Become an AI/ML Engineer
 
-    def life_mantra(self):
-        return "Keep learning, keep building. 🚀"
+---
 
-me = HarshKumar()
-print(me.life_mantra())
+# 💻 Tech Stack
+📊 Data Analysis
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
-### 🛠️ Full Tech Arsenal
+🤖 Machine Learning
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+🛠️ Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![Conda](https://img.shields.io/badge/Conda-44A833?style=for-the-badge&logo=anaconda)
 
-#### 🤖 Machine Learning & Deep Learning
-![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HUGGINGFACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![XGBoost](https://img.shields.io/badge/XGBOOST-111111?style=for-the-badge&logo=xgboost&logoColor=white)
+📈 GitHub Stats
+<p align="center">
 
-#### 💬 NLP
-![NLTK](https://img.shields.io/badge/NLTK-154360?style=for-the-badge)
-![spaCy](https://img.shields.io/badge/SPACY-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![Transformers](https://img.shields.io/badge/TRANSFORMERS-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![Gensim](https://img.shields.io/badge/GENSIM-319795?style=for-the-badge)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshkumar6581&show_icons=true&theme=tokyonight"/>
 
-#### 📊 Data & Visualization
-![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/SEABORN-3776AB?style=for-the-badge)
-![Plotly](https://img.shields.io/badge/PLOTLY-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=harshkumar6581&theme=tokyonight"/>
 
-#### ⚙️ MLOps & Deployment
-![Apache Airflow](https://img.shields.io/badge/APACHE_AIRFLOW-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLFLOW-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Render](https://img.shields.io/badge/RENDER-00E599?style=for-the-badge&logo=render&logoColor=black)
-![Astro CLI](https://img.shields.io/badge/ASTRO_CLI-E63946?style=for-the-badge)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshkumar6581&layout=compact&theme=tokyonight"/>
 
-#### 🧰 Dev Tools & Environment
-![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Conda](https://img.shields.io/badge/CONDA-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-![Docker Desktop](https://img.shields.io/badge/DOCKER_DESKTOP-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![WSL2](https://img.shields.io/badge/WSL2-000000?style=for-the-badge&logo=linux&logoColor=white)
-![Windows](https://img.shields.io/badge/WINDOWS-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![PowerShell](https://img.shields.io/badge/POWERSHELL-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+</p>
+🚀 Current Goals (2026)
+- ✅ Master Data Analytics
+- ✅ Learn Machine Learning
+- 🔄 Learn Deep Learning
+- 🔄 Build End-to-End ML Projects
+- 🔄 Learn NLP
+- 🔄 Learn MLOps
+- 🎯 Get an AI/ML Engineer Role
+
+📫 Connect with Me
+📧 Email : your_email@gmail.com
+
+💼 LinkedIn :
+https://linkedin.com/in/your-link
+
+💻 GitHub :
+https://github.com/harshkumar6581
