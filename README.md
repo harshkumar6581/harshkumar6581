@@ -124,7 +124,7 @@ print(me.life_mantra())
 
 # 📫 Connect With Me
 
-📧 Email: your_email@gmail.com
+📧 Email: harshkumars2116@gmail.com
 
 💼 LinkedIn: https://linkedin.com/in/your-linkedin
 
