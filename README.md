@@ -26,11 +26,11 @@ class HarshKumar:
         self.location = "Bhopal, MP, India 🇮🇳"
         self.domain = ["Computer Science", "Data Science", "Machine Learning", "Neural Networks"]
         self.learning = ["CNN", "RNN", "LSTM", "Advanced Machine Learning"]
-        self.ask_me_about = ["Python", "C++", "SQL", "DBMS", "computer network"]
+        self.ask_me_about = ["Python", "C++", "SQL", "DBMS", "Operating Systems"]
 
     def current_stack(self):
         return {
-            "languages": ["Python 🐍", "C++ ⚡", "SQL 🗄️"],
+            "languages": ["Python 🐍", "SQL 🗄️"],
             "data_science": ["Machine Learning", "Deep Learning", "CNN", "RNN", "LSTM"],
             "tools": ["Git", "GitHub", "VS Code", "Jupyter"]
         }
