@@ -8,5 +8,5 @@
 
 ## 🛠 Tech Stack
 
-- **Programming:** Python, C++
+- **Programming:** Python, SQL
 - **Data Science:** Machine Learning, Deep Learning (CNN, RNN, LSTM), SQL
